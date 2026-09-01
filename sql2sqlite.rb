@@ -1,4 +1,4 @@
-class sql2sqlite < Formula
+class Sql2sqlite < Formula
   desc "SQL 2 SQLite"
   homepage "https://github.com/bungakecil/sql2sqlite"
   url "https://codeload.github.com/bungakecil/sql2sqlite/tar.gz/refs/tags/0.0.1"
